@@ -42,3 +42,38 @@ Web pages can be created and modified by using professional HTML editors.
 However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac).
 
 We believe in that using a simple text editor is a good way to learn HTML.
+
+## Starting an HTML Document
+
+All HTML documents must start with a document type declaration: ```<!DOCTYPE html>```.
+
+The HTML document itself begins with <html> and ends with ```</html>```.
+
+The visible part of the HTML document is between <body> and ```</body>```.
+
+### Example
+
+```HTML
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
+
+## The <!DOCTYPE> Declaration
+
+The ```<!DOCTYPE>``` declaration represents the document type, and helps browsers to display web pages correctly.
+
+It must only appear once, at the top of the page (before any HTML tags).
+
+The ```<!DOCTYPE>``` declaration is not case sensitive.
+
+The ```<!DOCTYPE>``` declaration for HTML5 is:
+```HTML
+<!DOCTYPE html>
+```
