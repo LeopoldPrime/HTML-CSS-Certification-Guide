@@ -58,7 +58,7 @@ View in Browser
 HTML Page Structure
 Below is a visualization of an HTML page structure:
 
-![download](https://user-images.githubusercontent.com/87269058/175608840-f8b2c473-9b6e-4352-9508-835a4a4c33dd.png)
+![Capture](https://user-images.githubusercontent.com/87269058/175609140-e8ff5170-282f-451d-a81a-e13cc87cddf0.PNG)
 
 Note: The content inside the <body> section (the white area above) will be displayed in a browser. The content inside the <title> element will be shown in the browser's title bar or in the page's tab.
 
