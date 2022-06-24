@@ -48,25 +48,7 @@ Save the file on your computer. Select File > Save as in the Notepad menu.
 
 Name the file "index.htm" and set the encoding to UTF-8 (which is the preferred encoding for HTML files).
 
-View in Browser
-
 Tip: You can use either .htm or .html as file extension. There is no difference, it is up to you.
 
 ### Step 4: View the HTML Page in Your Browser
 Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose "Open with").
-
-### Example
-```
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-```
