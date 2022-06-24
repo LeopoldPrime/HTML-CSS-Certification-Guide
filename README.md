@@ -114,4 +114,4 @@ Write or copy the following HTML code into Notepad:
 </html>
 ```
 
-https://imgur.com/a/n7AtpgQ
+https://www.w3schools.com/html/img_notepad.png
