@@ -1,26 +1,26 @@
 # Welcome
  Welcome To Rootkits HTML and CSS Certification Guide 
 ## Chapters
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#what-is-html)
+[What is HTML](ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#what-is-html)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#what-is-an-html-element)
+[What is an HTML element](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#what-is-an-html-element)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#web-browsers)
+[Web Browsers](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#web-browsers)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-page-structure)
+[HTML Page Structures](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-page-structure)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-history)
+[HTMLps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-history)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-editors)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-editors)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-basic-examples)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-basic-examples)
 
-(ttps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-elements)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-elements)
 
-[]tps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#never-skip-the-end-tag)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#never-skip-the-end-tag)
 
-[]tps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#empty-html-elements)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#empty-html-elements)
 
-[]tps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-is-not-case-sensitive)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-is-not-case-sensitive)
 
-[]tps://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-tag-reference)
+[](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#html-tag-reference)
