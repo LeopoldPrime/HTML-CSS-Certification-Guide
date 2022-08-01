@@ -1,5 +1,5 @@
 # Welcome
- Welcome To Rootkits HTML and CSS Certification Guide 
+ Welcome To Rootkits HTML and CSS Certification Guide. In this guide we will be showing and teaching you enough html and css to build your own professional level website 
 ## Chapters
 [What is HTML](https://github.com/LeopoldPrime/HTML-CSS-Certification-Guide/blob/main/CertGuide.md#what-is-html)
 
